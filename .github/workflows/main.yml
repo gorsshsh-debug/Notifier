@@ -2,7 +2,7 @@ name: Roblox Tracker
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 jobs:
